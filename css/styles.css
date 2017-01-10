@@ -1,5 +1,6 @@
 p {
   display: none;
+  background-color: lightblue;
 }
 
 body{
@@ -7,14 +8,12 @@ body{
 }
 .col-md-3 {
   text-align: center;
+  height: 100px;
 }
 
 
-h2, p {
+h4, p {
   border: 1px solid black;
   padding: 30px;
-}
-
-.background {
-  background-color: lightblue;
+  height: 100%;
 }
